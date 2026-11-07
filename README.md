@@ -69,7 +69,6 @@ Use targeted offers to attract more female customers<br><br>
 Download or clone this repository<br>
 Open Dmart_BI_Project.pbix in Power BI Desktop (free)<br>
 If Power BI asks for the data file, select the Excel file<br><br>
-
 👤 Author
 
 Sreelekha.J · www.linkedin.com/in/sreelekha-j-199290p · sreelekha1992@gmail.com
